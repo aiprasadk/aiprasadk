@@ -9,10 +9,6 @@ I have a BIM coordination and modeling background. I'm currently expanding my sk
 - SQL
 - Power BI
 
-### What I Do:
-- Trade in Nifty50, Equity Positional, and Commodities
-- Analyze market trends using technical analysis
-
 ### My Goals:
 - To excel in Data Analysis and Data Science
 - To become a professional in Python & Trading
