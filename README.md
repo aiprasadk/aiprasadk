@@ -1,6 +1,10 @@
 # Hi there, I'm Prasad Kulkarni 👋
 
 ### Ex-Revit BIM Coordinator/Modeler | Aspiring Data Scientist and Trader
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-ekanshi&label=Profile%20views&color=0e75b6&style=flat" alt="aiprasadk" /> </p>
+---
+
 
 I have a BIM coordination and modeling background. I'm currently expanding my skill set in:
 
