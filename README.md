@@ -1,5 +1,5 @@
 ### <div align="center"> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500¢er=true&vCenter=true&width=600&height=100&lines=Hi!+I+am+Prasad+Kulkarni.;I+am+a+Data+Enthusiast.;Check+out+my+GitHub+portfolio+🥋!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500¢er=true&vCenter=true&width=600&height=100&lines=Hi!+I+am+Prasad+Kulkarni.;I+am+a+Aspiring+Data+Analyst.;Check+out+my+GitHub+portfolio+🥋!)](https://git.io/typing-svg) 
 </div>
 
 ### <div align="center"> 
