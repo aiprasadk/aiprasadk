@@ -61,17 +61,17 @@ Let’s connect! Feel free to reach out if you want to chat about data analysis,
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis/blob/main/Atliq%20hotels%20thumbnail.png"> **[Python_Atliq_Hotels_Analysis](https://github.com/your-username/Python_Atliq_Hotels_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis/blob/main/Atliq%20hotels%20thumbnail.png"> **[Python_Atliq_Hotels_Analysis](https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis)**
 </p> Analysis of AtliQ Hotels data using Python to identify key trends and performance metrics.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="[https://via.placeholder.com/250x150?text=Project+Thumbnail](https://github.com/aiprasadk/Consumer_Goods_Insights-SQL/blob/main/CG_thumbnail.png)"> **[Consumer_Goods_Insights-SQL](https://github.com/your-username/Consumer_Goods_Insights-SQL)**
+<img align="left" width="250" height="150" src="[https://via.placeholder.com/250x150?text=Project+Thumbnail](https://github.com/aiprasadk/Consumer_Goods_Insights-SQL/blob/main/CG_thumbnail.png)"> **[Consumer_Goods_Insights-SQL](https://github.com/aiprasadk/Consumer_Goods_Insights-SQL)**
 </p> Utilized SQL to perform in-depth analysis on consumer goods data.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="[https://via.placeholder.com/250x150?text=Project+Thumbnail](https://github.com/aiprasadk/Shield-Insurance/blob/main/Shield%20thumbnail.PNG)"> **[Shield-Insurance](https://github.com/your-username/Shield-Insurance)**
+<img align="left" width="250" height="150" src="[https://via.placeholder.com/250x150?text=Project+Thumbnail](https://github.com/aiprasadk/Shield-Insurance/blob/main/Shield%20thumbnail.PNG)"> **[Shield-Insurance](https://github.com/aiprasadk/Shield-Insurance)**
 </p> A project focused on analyzing insurance data for Shield Insurance.
 </p>
 <br><br><br>
