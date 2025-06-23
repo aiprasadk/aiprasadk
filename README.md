@@ -81,7 +81,7 @@ Let’s connect! Feel free to reach out if you want to chat about data analysis,
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Instagram-Tech-Influencer-Analysis](https://github.com/your-username/Instagram-Tech-Influencer-Analysis)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/aiprasadk/Instagram-Tech-Influencer-Analysis/main/Insights%20Images/Instagram%20thumbnail.png"> **[Instagram-Tech-Influencer-Analysis](https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis)**
 </p> This project involves analyzing data from Instagram tech influencers.
 </p>
 <br><br><br>
