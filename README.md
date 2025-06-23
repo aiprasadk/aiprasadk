@@ -66,12 +66,12 @@ Let’s connect! Feel free to reach out if you want to chat about data analysis,
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="[https://via.placeholder.com/250x150?text=Project+Thumbnail](https://github.com/aiprasadk/Consumer_Goods_Insights-SQL/blob/main/CG_thumbnail.png)"> **[Consumer_Goods_Insights-SQL](https://github.com/aiprasadk/Consumer_Goods_Insights-SQL)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Consumer_Goods_Insights-SQL/blob/main/CG_thumbnail.png"> **[Consumer_Goods_Insights-SQL](https://github.com/aiprasadk/Consumer_Goods_Insights-SQL)**
 </p> Utilized SQL to perform in-depth analysis on consumer goods data.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="[https://via.placeholder.com/250x150?text=Project+Thumbnail](https://github.com/aiprasadk/Shield-Insurance/blob/main/Shield%20thumbnail.PNG)"> **[Shield-Insurance](https://github.com/aiprasadk/Shield-Insurance)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Shield-Insurance/blob/main/Shield%20thumbnail.PNG"> **[Shield-Insurance](https://github.com/aiprasadk/Shield-Insurance)**
 </p> A project focused on analyzing insurance data for Shield Insurance.
 </p>
 <br><br><br>
@@ -81,7 +81,7 @@ Let’s connect! Feel free to reach out if you want to chat about data analysis,
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="[https://via.placeholder.com/250x150?text=Project+Thumbnail](https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/blob/main/Main_KPI.jpg)"> **[Wavecon-Telecom---5G-Impact-Analysis](https://github.com/your-username/Wavecon-Telecom---5G-Impact-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/blob/main/Main_KPI.jpg"> **[Wavecon-Telecom---5G-Impact-Analysis](https://github.com/your-username/Wavecon-Telecom---5G-Impact-Analysis)**
 </p> Analysis of the impact of 5G on Wavecon Telecom data.
 </p>
 <br><br><br>
