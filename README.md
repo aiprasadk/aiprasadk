@@ -14,12 +14,6 @@
 🔄 Transitioning to Data Analysis & Data Science 🚀:
 After honing my skills in BIM Modeling, I’m now channeling my analytical mindset into the world of data! Through recent courses in Python 🐍, Power BI 📊, SQL 💻, and Excel 📈, I’m excited to leverage these tools to drive data-driven insights and solve real-world business challenges.
 
-✨ Recent Highlights:
-
-* Created an interactive Revenue Insights Dashboard 📊 for AtliQ Grands 🏨 to help them analyze market share & revenue trends.
-* Developed the Business Intelligence 360 dashboard 💼 for AtliQ Technologies, delivering insights across Sales, Marketing, and Supply Chain 🚚.
-* Applied advanced DAX and Power Query 🔧 to build impactful visualizations and streamline data analysis workflows.
-
 🎓 Continuous Learning & Growth:
 I’m passionate about learning and sharing knowledge 📚. Recently, I completed the Excel: Mother of Business Intelligence course by Codebasics, and I regularly share my work on GitHub and LinkedIn to engage with the community and expand my skills.
 
