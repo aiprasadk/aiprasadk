@@ -4,21 +4,35 @@
 
 ### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=orange)](https://www.linkedin.com/in/prasad7k) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white&color=orange)](https://codebasics.io/portfolio/Prasad-Kulkarni) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white&color=orange)](mailto:aiprasadk@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+91)9028966077-6AA84F?style=flat&logo=allocine&logoColor=white&color=orange)]() </div>
 
-👋 Hi there! I’m Prasad, a professional with 15+ years in Structural Detailing and 8+ years as a Revit BIM Coordinator/Modeler 🏗️. I hold an Autodesk Certification in Revit Structures and have successfully delivered high-impact projects that combine technical expertise with a passion for innovation.
+👋 Hi, I’m Prasad Kulkarni! A seasoned professional with over 15 years in Structural Detailing and 8+ years as an Autodesk-Certified Revit BIM Coordinator/Modeler 🏗️. I’ve delivered high-impact projects by blending technical precision with innovative solutions. Now, I’m transitioning into Data Analysis & Data Science 🚀, applying my analytical expertise to uncover actionable insights.
 
-🔄 Transitioning to Data Analysis & Data Science 🚀:
-After honing my skills in BIM Modeling, I’m now channeling my analytical mindset into the world of data! Through recent courses in Python 🐍, Power BI 📊, SQL 💻, and Excel 📈, I’m excited to leverage these tools to drive data-driven insights and solve real-world business challenges.
+🚀 Transitioning to Data-Driven Impact
 
-🎓 Continuous Learning & Growth:
-I’m passionate about learning and sharing knowledge 📚. Recently, I completed the Excel: Mother of Business Intelligence course by Codebasics, and I regularly share my work on GitHub and LinkedIn to engage with the community and expand my skills.
+With a strong foundation in BIM, I’m now mastering Python 🐍, Power BI 📊, SQL 💻, and Advanced Excel 📈 to tackle complex business challenges. My recent projects showcase my ability to transform data into strategic value:
 
-🔍 Looking for Opportunities:
-I’m actively seeking roles where I can combine my technical skills, industry experience, and passion for data to drive meaningful insights and business growth 📈.
+Revenue Insights Dashboard 📊 for AtliQ Grands 🏨: Built an interactive Power BI dashboard to analyze revenue trends and market share, empowering data-driven decisions.
 
-Key Skills:
-📊 Power BI | 🐍 Python | 💻 SQL | 📈 Advanced Excel | 🧠 Data Analysis | 💡 Data Visualization | 🏗️ BIM Modeling
+Business Intelligence 360 Dashboard 💼 for AtliQ Technologies: Delivered cross-functional insights for Sales, Marketing, and Supply Chain 🚚 using advanced DAX and Power Query.
 
-Let’s connect! Feel free to reach out if you want to chat about data analysis, Power BI projects, or exciting collaborations 🤝.
+Instagram Tech Influencer Analysis 📱: Leveraged MySQL and Python to uncover engagement trends, identifying high-impact content strategies like IG Reels dominance.
+
+🎓 Lifelong Learner & Community Contributor
+
+I’m passionate about continuous learning 📚 and sharing knowledge. I recently completed Excel: Mother of Business Intelligence by Codebasics and actively share my projects on GitHub and LinkedIn. My portfolio includes visualizations, SQL queries, and dashboards that demonstrate my growing expertise.
+
+🔍 What’s Next?
+
+I’m seeking opportunities to apply my technical skills, industry experience, and enthusiasm for data to drive business growth 📈. Let’s connect to explore roles in data analysis, Power BI development, or collaborative projects!
+
+🛠️ Key Skills
+
+Data Analysis & Visualization: Power BI, Advanced Excel, Python, SQL
+
+Technical Expertise: DAX, Power Query, MySQL, Data Modeling
+
+Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detailing
+
+🤝 Let’s Connect! Reach out via LinkedIn to discuss data projects, insights, or potential collaborations. I’m excited to contribute to the data-driven future!
 
 # My Toolkit:
 
