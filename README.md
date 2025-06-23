@@ -1,13 +1,8 @@
-### <div align="center"> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500¢er=true&vCenter=true&width=600&height=100&lines=Hi!+I+am+Prasad+Kulkarni.;I+am+a+Aspiring+Data+Analyst.;Check+out+my+GitHub+portfolio+🥋!)](https://git.io/typing-svg) 
-</div>
+<!-- ## <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" width="60%" height="60%" align="center"> -->
 
-### <div align="center"> 
-[![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=orange)](https://www.linkedin.com/in/prasad7k) 
-[![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white&color=orange)](https://codebasics.io/portfolio/Prasad-Kulkarni) 
-[![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white&color=orange)](mailto:aiprasadk@gmail.com) 
-[![Mobile](https://img.shields.io/badge/|-(+91)9028966077-6AA84F?style=flat&logo=allocine&logoColor=white&color=orange)]() 
-</div>
+## <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=600&height=100&lines=Hi!+I+am+Prasad+Kulkarni.;I+am+a+Aspiring+Data+Analyst.;Checkout+my+Github+Portfolio+🥋!)](https://git.io/typing-svg) </div>
+
+### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=orange)](https://www.linkedin.com/in/prasad7k) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white&color=orange)](https://codebasics.io/portfolio/Prasad-Kulkarni) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white&color=orange)](mailto:aiprasadk@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+91)9028966077-6AA84F?style=flat&logo=allocine&logoColor=white&color=orange)]() </div>
 
 👋 Hi there! I’m Prasad, a professional with 15+ years in Structural Detailing and 8+ years as a Revit BIM Coordinator/Modeler 🏗️. I hold an Autodesk Certification in Revit Structures and have successfully delivered high-impact projects that combine technical expertise with a passion for innovation.
 
@@ -66,17 +61,17 @@ Let’s connect! Feel free to reach out if you want to chat about data analysis,
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Python_Atliq_Hotels_Analysis](https://github.com/your-username/Python_Atliq_Hotels_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis/blob/main/Atliq%20hotels%20thumbnail.png"> **[Python_Atliq_Hotels_Analysis](https://github.com/your-username/Python_Atliq_Hotels_Analysis)**
 </p> Analysis of AtliQ Hotels data using Python to identify key trends and performance metrics.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Consumer_Goods_Insights-SQL](https://github.com/your-username/Consumer_Goods_Insights-SQL)**
+<img align="left" width="250" height="150" src="[https://via.placeholder.com/250x150?text=Project+Thumbnail](https://github.com/aiprasadk/Consumer_Goods_Insights-SQL/blob/main/CG_thumbnail.png)"> **[Consumer_Goods_Insights-SQL](https://github.com/your-username/Consumer_Goods_Insights-SQL)**
 </p> Utilized SQL to perform in-depth analysis on consumer goods data.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Shield-Insurance](https://github.com/your-username/Shield-Insurance)**
+<img align="left" width="250" height="150" src="[https://via.placeholder.com/250x150?text=Project+Thumbnail](https://github.com/aiprasadk/Shield-Insurance/blob/main/Shield%20thumbnail.PNG)"> **[Shield-Insurance](https://github.com/your-username/Shield-Insurance)**
 </p> A project focused on analyzing insurance data for Shield Insurance.
 </p>
 <br><br><br>
@@ -86,7 +81,7 @@ Let’s connect! Feel free to reach out if you want to chat about data analysis,
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Wavecon-Telecom---5G-Impact-Analysis](https://github.com/your-username/Wavecon-Telecom---5G-Impact-Analysis)**
+<img align="left" width="250" height="150" src="[https://via.placeholder.com/250x150?text=Project+Thumbnail](https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/blob/main/Main_KPI.jpg)"> **[Wavecon-Telecom---5G-Impact-Analysis](https://github.com/your-username/Wavecon-Telecom---5G-Impact-Analysis)**
 </p> Analysis of the impact of 5G on Wavecon Telecom data.
 </p>
 <br><br><br>
