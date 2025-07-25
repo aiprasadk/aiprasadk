@@ -55,22 +55,22 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Business-Intelligence-360](https://github.com/your-username/Business-Intelligence-360)**
+<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Business-Intelligence-360](https://github.com/aiprasadk/Business-Intelligence-360)**
 </p> Developed the Business Intelligence 360 dashboard for AtliQ Technologies, delivering insights across Sales, Marketing, and Supply Chain.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[AtliQ-Grands-Revenue-Insights](https://github.com/your-username/AtliQ-Grands-Revenue-Insights)**
+<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[AtliQ-Grands-Revenue-Insights](https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights)**
 </p> Created an interactive Revenue Insights Dashboard for AtliQ Grands to help them analyze market share & revenue trends.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Consumer_Goods_Insights](https://github.com/your-username/Consumer_Goods_Insights)**
+<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Consumer_Goods_Insights](https://github.com/aiprasadk/Consumer_Goods_Insights)**
 </p> This project delves into consumer goods data to extract actionable insights.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Python_Expense-Management-System](https://github.com/your-username/Python_Expense-Management-System)**
+<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Python_Expense-Management-System](https://github.com/aiprasadk/Python_Expense-Management-System)**
 </p> Developed an expense management system using Python.
 </p>
 <br><br><br>
@@ -95,7 +95,7 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/blob/main/Main_KPI.jpg"> **[Wavecon-Telecom---5G-Impact-Analysis](https://github.com/your-username/Wavecon-Telecom---5G-Impact-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/blob/main/Main_KPI.jpg"> **[Wavecon-Telecom---5G-Impact-Analysis](https://github.com/aiprasadk/Wavecon-Telecom---5G-Impact-Analysis)**
 </p> Analysis of the impact of 5G on Wavecon Telecom data.
 </p>
 <br><br><br>
