@@ -50,7 +50,7 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 
 # Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Excel-Sales-Analytics/blob/main/Thumbnail/Excel%20Sales%20and%20Finance%20Analytics_thumbnail.jpg"> **[Excel-Sales-Analytics](https://github.com/your-username/Excel-Sales-Analytics)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Excel-Sales-Analytics/blob/main/Thumbnail/Excel%20Sales%20and%20Finance%20Analytics_thumbnail.jpg"> **[Excel-Sales-Analytics](https://github.com/aiprasadk/Excel-Sales-Analytics)**
 </p> This project focuses on sales analysis using Microsoft Excel to uncover key trends and insights.
 </p>
 <br><br><br>
