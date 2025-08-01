@@ -55,7 +55,7 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Business-Intelligence-360-/blob/main/Thumbnail/BI360_thumbnail.png"> **[Business-Intelligence-360](https://github.com/aiprasadk/Business-Intelligence-360)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Business-Intelligence-360-/blob/main/Thumbnail/BI360_thumbnail.png"> **[Business-Intelligence-360](https://github.com/aiprasadk/-Business-Intelligence-360-/tree/main)**
 </p> Developed the Business Intelligence 360 dashboard for AtliQ Technologies, delivering insights across Sales, Marketing, and Supply Chain.
 </p>
 <br><br><br>
