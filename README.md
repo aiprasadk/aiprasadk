@@ -90,7 +90,7 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/blob/main/Main_KPI.jpg"> **[Wavecon-Telecom---5G-Impact-Analysis](https://github.com/aiprasadk/Wavecon-Telecom---5G-Impact-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/blob/main/Thumbnail/Wavecon%20thumbnail.png"> **[Wavecon-Telecom---5G-Impact-Analysis](https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/tree/main)**
 </p> Analysis of the impact of 5G on Wavecon Telecom data.
 </p>
 <br><br><br>
