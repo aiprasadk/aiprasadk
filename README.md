@@ -70,7 +70,7 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Python_Expense-Management-System](https://github.com/aiprasadk/Python_Expense-Management-System)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Python_Expense-Management-System/blob/main/Thumbnail/Expense%20Management%20System%20thumbnail.png"> **[Python_Expense-Management-System](https://github.com/aiprasadk/Python_Expense-Management-System)**
 </p> Developed an expense management system using Python.
 </p>
 <br><br><br>
