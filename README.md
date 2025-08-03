@@ -75,7 +75,7 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis/blob/main/Atliq%20hotels%20thumbnail.png"> **[Python_Atliq_Hotels_Analysis](https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis/blob/main/Thumbnail/hotels%20thumbnail.png"> **[Python_Atliq_Hotels_Analysis](https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis)**
 </p> Analysis of AtliQ Hotels data using Python to identify key trends and performance metrics.
 </p>
 <br><br><br>
