@@ -75,15 +75,18 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
+
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis/blob/main/Thumbnail/hotels%20thumbnail.png"> **[Python_Atliq_Hotels_Analysis](https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis)**
 </p> Analysis of AtliQ Hotels data using Python to identify key trends and performance metrics.
 </p>
 <br><br><br>
 
+
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Shield-Insurance/blob/main/Thumbnail/Shield%20Insurance%20thumbnail.png"> **[Shield-Insurance](https://github.com/aiprasadk/Shield-Insurance)**
 </p> A project focused on analyzing insurance data for Shield Insurance.
 </p>
 <br><br><br>
+
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis/blob/main/Insights%20Images/Instagram%20thumbnail.png"> **[Instagram-Tech-Influencer-Analysis](https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis)**
 </p> This project involves analyzing data from Instagram tech influencers.
