@@ -55,12 +55,12 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Business-Intelligence-360-/blob/main/Thumbnail/BI360_thumbnail.png"> **[Business-Intelligence-360](https://github.com/aiprasadk/-Business-Intelligence-360-/tree/main)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Business-Intelligence-360-/blob/main/Thumbnail/BI360_Thumbnail.png"> **[Business-Intelligence-360](https://github.com/aiprasadk/-Business-Intelligence-360-/tree/main)**
 </p> Developed the Business Intelligence 360 dashboard for AtliQ Technologies, delivering insights across Sales, Marketing, and Supply Chain.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights/blob/main/Thumbnail/AtliQ%20Grands%20thumbnail.png"> **[AtliQ-Grands-Revenue-Insights](https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights/blob/main/Thumbnail/AtliQ%20Grands_thumbnail.png"> **[AtliQ-Grands-Revenue-Insights](https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights)**
 </p> Created an interactive Revenue Insights Dashboard for AtliQ Grands to help them analyze market share & revenue trends.
 </p>
 <br><br><br>
