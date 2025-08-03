@@ -88,7 +88,7 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 <br><br><br>
 
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis/blob/main/Insights%20Images/Instagram%20thumbnail.png"> **[Instagram-Tech-Influencer-Analysis](https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis/blob/main/Thumbnail/Instagram%20Tech%20thumbnail.png"> **[Instagram-Tech-Influencer-Analysis](https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis)**
 </p> This project involves analyzing data from Instagram tech influencers.
 </p>
 <br><br><br>
