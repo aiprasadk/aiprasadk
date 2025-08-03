@@ -53,47 +53,47 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Excel-Sales-Analytics/blob/main/Thumbnail/Excel%20Sales%20and%20Finance%20Analytics_thumbnail.jpg"> **[Excel-Sales-Analytics](https://github.com/aiprasadk/Excel-Sales-Analytics)**
 </p> This project focuses on sales analysis using Microsoft Excel to uncover key trends and insights.
 </p>
-<br><br><br>
+<br clear="all">
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Business-Intelligence-360-/blob/main/Thumbnail/BI360_Thumbnail.png"> **[Business-Intelligence-360](https://github.com/aiprasadk/-Business-Intelligence-360-/tree/main)**
 </p> Developed the Business Intelligence 360 dashboard for AtliQ Technologies, delivering insights across Sales, Marketing, and Supply Chain.
 </p>
-<br><br><br>
+<br clear="all">
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights/blob/main/Thumbnail/AtliQ%20Grands_thumbnail.png"> **[AtliQ-Grands-Revenue-Insights](https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights)**
 </p> Created an interactive Revenue Insights Dashboard for AtliQ Grands to help them analyze market share & revenue trends.
 </p>
-<br><br><br>
+<br clear="all">
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Consumer_Goods_Insights-SQL/blob/main/CG_thumbnail.png"> **[Consumer_Goods_Insights-SQL](https://github.com/aiprasadk/Consumer_Goods_Insights-SQL)**
 </p> Utilized SQL to perform in-depth analysis on consumer goods data.
 </p>
-<br><br><br>
+<br clear="all">
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Python_Expense-Management-System/blob/main/Thumbnail/Expense%20Management%20System%20thumbnail.png"> **[Python_Expense-Management-System](https://github.com/aiprasadk/Python_Expense-Management-System)**
 </p> Developed an expense management system using Python.
 </p>
-<br><br><br>
+<br clear="all">
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis/blob/main/Thumbnail/hotels%20thumbnail.png"> **[Python_Atliq_Hotels_Analysis](https://github.com/aiprasadk/Python_Atliq_Hotels_Analysis)**
 </p> Analysis of AtliQ Hotels data using Python to identify key trends and performance metrics.
 </p>
-<br><br><br>
+<br clear="all">
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Shield-Insurance/blob/main/Thumbnail/Shield%20Insurance%20thumbnail.png"> **[Shield-Insurance](https://github.com/aiprasadk/Shield-Insurance)**
 </p> A project focused on analyzing insurance data for Shield Insurance.
 </p>
-<br><br><br>
+<br clear="all">
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis/blob/main/Thumbnail/Instagram%20Tech%20thumbnail.png"> **[Instagram-Tech-Influencer-Analysis](https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis)**
 </p> This project involves analyzing data from Instagram tech influencers.
 </p>
-<br><br><br>
+<br clear="all">
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/blob/main/Thumbnail/Wavecon%20thumbnail.png"> **[Wavecon-Telecom---5G-Impact-Analysis](https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/tree/main)**
 </p> Analysis of the impact of 5G on Wavecon Telecom data.
 </p>
-<br><br><br>
+<br clear="all">
 
 ---
 
