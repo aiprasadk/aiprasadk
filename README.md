@@ -65,8 +65,8 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[Consumer_Goods_Insights](https://github.com/aiprasadk/Consumer_Goods_Insights)**
-</p> This project delves into consumer goods data to extract actionable insights.
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Consumer_Goods_Insights-SQL/blob/main/CG_thumbnail.png"> **[Consumer_Goods_Insights-SQL](https://github.com/aiprasadk/Consumer_Goods_Insights-SQL)**
+</p> Utilized SQL to perform in-depth analysis on consumer goods data.
 </p>
 <br><br><br>
 
@@ -80,10 +80,7 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/Consumer_Goods_Insights-SQL/blob/main/CG_thumbnail.png"> **[Consumer_Goods_Insights-SQL](https://github.com/aiprasadk/Consumer_Goods_Insights-SQL)**
-</p> Utilized SQL to perform in-depth analysis on consumer goods data.
-</p>
-<br><br><br>
+
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Shield-Insurance/blob/main/Shield%20thumbnail.PNG"> **[Shield-Insurance](https://github.com/aiprasadk/Shield-Insurance)**
 </p> A project focused on analyzing insurance data for Shield Insurance.
