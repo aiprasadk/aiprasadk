@@ -60,7 +60,7 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150?text=Project+Thumbnail"> **[AtliQ-Grands-Revenue-Insights](https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights/blob/main/Thumbnail/AtliQ%20Grands%20thumbnail.png"> **[AtliQ-Grands-Revenue-Insights](https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights)**
 </p> Created an interactive Revenue Insights Dashboard for AtliQ Grands to help them analyze market share & revenue trends.
 </p>
 <br><br><br>
