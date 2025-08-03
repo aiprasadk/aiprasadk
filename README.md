@@ -80,8 +80,6 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 </p>
 <br><br><br>
 
-
-
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Shield-Insurance/blob/main/Shield%20thumbnail.PNG"> **[Shield-Insurance](https://github.com/aiprasadk/Shield-Insurance)**
 </p> A project focused on analyzing insurance data for Shield Insurance.
 </p>
