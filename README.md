@@ -31,7 +31,9 @@ I’m seeking opportunities in **Dubai, UAE, or remotely** to apply my skills as
 
 🤝 Let’s Connect! Reach out via LinkedIn to discuss data projects, insights, or potential collaborations. I’m excited to contribute to the data-driven future!
 
-<!-- Drag and drop your files into GitHub first, copy the links it generates, and paste them in the src below -->
+# My Toolkit:
+
+### Data ETL, Engineering & Visualisation:<!-- Drag and drop your files into GitHub first, copy the links it generates, and paste them in the src below -->
 
 | SQL | Python | PySpark | Databricks | Delta Lake | Power BI | Excel | Git |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
