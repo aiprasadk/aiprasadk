@@ -4,33 +4,30 @@
 
 ### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=orange)](https://www.linkedin.com/in/prasad7k) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white&color=orange)](https://codebasics.io/portfolio/Prasad-Kulkarni) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white&color=orange)](mailto:aiprasadk@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+91)9028966077-6AA84F?style=flat&logo=allocine&logoColor=white&color=orange)]() </div>
 
-👋 Hi, I’m Prasad Kulkarni! A seasoned professional with over 15 years in Structural Detailing and 8+ years as an Autodesk-Certified Revit BIM Coordinator/Modeler 🏗️. I’ve delivered high-impact projects by blending technical precision with innovative solutions. Now, I’m transitioning into Data Analysis & Data Science 🚀, applying my analytical expertise to uncover actionable insights.
+👋 Hi, I’m Prasad Kulkarni! A Data Analytics professional transitioning into Data Engineering with 15+ years of structural engineering and BIM coordination experience 🏗️. Hands-on with SQL, Python, Databricks, PySpark, Delta Lake, ETL, MLflow, Unity Catalog, and Power BI. I bridge the gap between complex engineering systems and modern enterprise data pipelines 🚀.
 
 🚀 Transitioning to Data-Driven Impact
 
-With a strong foundation in BIM, I’m now mastering Python 🐍, Power BI 📊, SQL 💻, and Advanced Excel 📈 to tackle complex business challenges. My recent projects showcase my ability to transform data into strategic value:
+With a strong foundation in BIM, I’m now mastering Python 🐍, Power BI 📊, SQL 💻, and Databricks ⚡ to tackle complex enterprise data challenges. My recent projects showcase my ability to build scalable data pipelines and analytics solutions:
 
-Revenue Insights Dashboard 📊 for AtliQ Grands 🏨: Built an interactive Power BI dashboard to analyze revenue trends and market share, empowering data-driven decisions.
-
-Business Intelligence 360 Dashboard 💼 for AtliQ Technologies: Delivered cross-functional insights for Sales, Marketing, and Supply Chain 🚚 using advanced DAX and Power Query.
-
-Instagram Tech Influencer Analysis 📱: Leveraged MySQL and Python to uncover engagement trends, identifying high-impact content strategies like IG Reels dominance.
+- **Healthcare Lakehouse on Databricks 🏥**: Built an end-to-end Medallion Architecture pipeline (Bronze → Silver → Gold) using Delta Lake, PySpark, and MLflow for predictive readmission analytics.
+- **Revenue Insights Dashboard 📊 (AtliQ Grands 🏨)**: Developed an interactive Power BI dashboard to analyze revenue trends and market share, empowering data-driven decisions.
+- **Business Intelligence 360 Dashboard 💼 (AtliQ Technologies)**: Delivered cross-functional insights for Sales, Marketing, and Supply Chain 🚚 using advanced DAX and Power Query.
+- **Instagram Tech Influencer Analysis 📱**: Leveraged MySQL and Python to uncover engagement trends, identifying high-impact content strategies.
 
 🎓 Lifelong Learner & Community Contributor
 
-I’m passionate about continuous learning 📚 and sharing knowledge. I recently completed Excel: Mother of Business Intelligence by Codebasics and actively share my projects on GitHub and LinkedIn. My portfolio includes visualizations, SQL queries, and dashboards that demonstrate my growing expertise.
+I’m passionate about continuous learning 📚 and sharing knowledge. I recently completed the **Databricks 14-Day AI Challenge** (covering Delta Lake, PySpark, Unity Catalog, MLflow, and Serverless optimization) and Codebasics analytics courses. I actively share my projects on GitHub and LinkedIn. My portfolio includes data pipelines, SQL queries, and dashboards that demonstrate my expertise.
 
 🔍 What’s Next?
 
-I’m seeking opportunities to apply my technical skills, industry experience, and enthusiasm for data to drive business growth 📈. Let’s connect to explore roles in data analysis, Power BI development, or collaborative projects!
+I’m seeking opportunities in **Dubai, UAE, or remotely** to apply my skills as a **Data Engineer, ETL Developer, BI Developer, or Data Analyst** 📈. Let’s connect to explore roles in data engineering, BI development, or collaborative projects!
 
 🛠️ Key Skills
 
-Data Analysis & Visualization: Power BI, Advanced Excel, Python, SQL
-
-Technical Expertise: DAX, Power Query, MySQL, Data Modeling
-
-Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detailing
+- **Data Engineering & ETL:** Databricks, PySpark, Delta Lake, ETL Pipelines, Unity Catalog, MLflow
+- **Data Analysis & Visualization:** Power BI, DAX, Power Query, MySQL, SQL Server, Advanced Excel, Python
+- **Engineering & Coordination:** BIM Modeling, Revit (Autodesk Certified), Structural Detailing
 
 🤝 Let’s Connect! Reach out via LinkedIn to discuss data projects, insights, or potential collaborations. I’m excited to contribute to the data-driven future!
 
@@ -49,6 +46,16 @@ Industry Experience: BIM Modeling, Revit (Autodesk Certified), Structural Detail
 ---
 
 # Projects:
+
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/aiprasadk/databricks-healthcare-lakehouse/main/Images/databricks_sql_dashboard.png"> **[databricks-healthcare-lakehouse](https://github.com/aiprasadk/databricks-healthcare-lakehouse)**
+</p> An end-to-end Healthcare Lakehouse built on Databricks Serverless using Medallion Architecture (Bronze → Silver → Gold), Delta Lake, PySpark, and Unity Catalog. Includes a [Published Live SQL Dashboard](https://dbc-a7c685a8-25c8.cloud.databricks.com/sql/dashboardsv3/01f0f7b6e3e415d8a40404808986cee0/pages/6e0189fe?o=7474654981100050).
+</p>
+<br clear="all">
+
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/hospital-readmission-pipeline/blob/main/Thumbnail/hospital_readmission_pipeline_thumnail.png"> **[hospital-readmission-pipeline](https://github.com/aiprasadk/hospital-readmission-pipeline)**
+</p> A PySpark and Machine Learning pipeline built on Databricks to predict patient readmissions using classification modeling, feature engineering, and MLflow run tracking.
+</p>
+<br clear="all">
 
 <img align="left" width="250" height="150" src="https://github.com/aiprasadk/Excel-Sales-Analytics/blob/main/Thumbnail/Excel%20Sales%20and%20Finance%20Analytics_thumbnail.jpg"> **[Excel-Sales-Analytics](https://github.com/aiprasadk/Excel-Sales-Analytics)**
 </p> This project focuses on sales analysis using Microsoft Excel to uncover key trends and insights.
