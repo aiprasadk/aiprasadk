@@ -33,10 +33,10 @@ I’m seeking opportunities in **Dubai, UAE, or remotely** to apply my skills as
 
 # My Toolkit:
 
-### Data ETL & Visualisation:
-| Power BI | SQL | Excel |
-|---|---|---|
-| <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/0ed55528-bc48-414a-91c5-0d3d6da434d7" title="Excel" alt="Excel" width="55" height="55"/> |
+### Data ETL, Engineering & Visualisation:
+| SQL | Python | PySpark | Databricks | Delta Lake | Power BI | Excel | Git |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL / MySQL" alt="SQL" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" title="PySpark" alt="PySpark" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.svg" title="Databricks" alt="Databricks" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delta-sharing/delta-sharing-original.svg" title="Delta Lake" alt="Delta Lake" width="45" height="45"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="45" height="45"/> | <img src="https://github.com/user-attachments/assets/0ed55528-bc48-414a-91c5-0d3d6da434d7" title="Excel" alt="Excel" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/> |
 
 ### Python 3 & Libraries:
 | Python 3 | Jupyter | NumPy | Pandas | Matplotlib | Seaborn | Plotly |
