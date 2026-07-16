@@ -52,7 +52,7 @@ I’m seeking opportunities in **Dubai, UAE, or remotely** to apply my skills as
 </p>
 <br clear="all">
 
-<img align="left" width="250" height="150" src="https://github.com/aiprasadk/hospital-readmission-pipeline/blob/main/Thumbnail/hospital_readmission_pipeline_thumnail.png"> **[hospital-readmission-pipeline](https://github.com/aiprasadk/hospital-readmission-pipeline)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/aiprasadk/hospital-readmission-pipeline/main/Thumbnail/hospital_readmission_pipeline_thumnail.png"> **[hospital-readmission-pipeline](https://github.com/aiprasadk/hospital-readmission-pipeline)**
 </p> A PySpark and Machine Learning pipeline built on Databricks to predict patient readmissions using classification modeling, feature engineering, and MLflow run tracking.
 </p>
 <br clear="all">
