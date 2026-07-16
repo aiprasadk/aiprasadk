@@ -47,7 +47,7 @@ I’m seeking opportunities in **Dubai, UAE, or remotely** to apply my skills as
 
 # Projects:
 
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/aiprasadk/databricks-healthcare-lakehouse/main/Thumbnail/databricks-healthcare-lakehouse_thumbnail.png"> **[databricks-healthcare-lakehouse](https://github.com/aiprasadk/databricks-healthcare-lakehouse)**
+<img align="left" width="250" height="150" src="https://github.com/aiprasadk/databricks-healthcare-lakehouse/blob/main/Thumbnail/databricks-healthcare-lakehouse_thumbnail.png?raw=true"> **[databricks-healthcare-lakehouse](https://github.com/aiprasadk/databricks-healthcare-lakehouse)**
 </p> An end-to-end Healthcare Lakehouse built on Databricks Serverless using Medallion Architecture (Bronze → Silver → Gold), Delta Lake, PySpark, and Unity Catalog. Includes a [Published Live SQL Dashboard](https://dbc-a7c685a8-25c8.cloud.databricks.com/sql/dashboardsv3/01f0f7b6e3e415d8a40404808986cee0/pages/6e0189fe?o=7474654981100050).
 </p>
 <br clear="all">
